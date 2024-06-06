@@ -1,13 +1,23 @@
 a {
-    color:aquamarine
+    color:aquamarine;
+    text-decoration: none;
 }
 
 body {
     background-color: black;
     color: bisque;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1 {
-    font-size: larger;  
+    font-size: 30pt;
+}
+
+.Proyecto {
+    margin-left: 20pt;
+}
+
+.Título {
+    height: 80pt;
+    margin-top: 30pt;
 }
