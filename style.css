@@ -1,4 +1,13 @@
+a {
+    color:aquamarine
+}
+
 body {
     background-color: black;
     color: bisque;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1 {
+    font-size: larger;  
 }
