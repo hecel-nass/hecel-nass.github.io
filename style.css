@@ -14,10 +14,17 @@ h1 {
 }
 
 .Proyecto {
+    margin-top: 3pt;
     margin-left: 20pt;
+}
+
+.Proyectos {
+    background: linear-gradient(black, #1d1d1d);
+    height: calc(100% - 80pt);
 }
 
 .Título {
     height: 80pt;
     margin-top: 30pt;
+    background-color: black;
 }
