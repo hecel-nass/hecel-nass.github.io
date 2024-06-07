@@ -16,6 +16,12 @@ h1 {
 .Proyecto {
     margin-top: 3pt;
     margin-left: 20pt;
+    width: 120pt;
+}
+
+.Proyecto:hover {
+    color:blueviolet;
+    font-weight:bold;
 }
 
 .Proyectos {
