@@ -33,8 +33,9 @@ h1 {
     height: 80pt;
     margin-top: 30pt;
     background-color: black;
+    color:goldenrod;
 }
 
 .Título:hover {
-    color:goldenrod;
+    color:gold;
 }
